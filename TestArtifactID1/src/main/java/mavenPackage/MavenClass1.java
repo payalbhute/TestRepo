@@ -6,7 +6,7 @@ public class MavenClass1 {
 		
 		System.out.println("Hello Maven");
 		System.out.println("Hello Maven");
-		
-		
+		System.out.println("Hello Maven");
+		System.out.println("Hello Maven");
 	}
 }
